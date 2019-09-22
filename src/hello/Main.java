@@ -3,7 +3,7 @@ package hello;
 /*
 학번: 201732023
 이름: 이영선
-내용: 백준 10817번 - 세 수 중 중간값 출력
+내용: 백준 10817번 - 세 수
  */
 
 import java.util.Scanner;
